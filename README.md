@@ -6,7 +6,7 @@ Twin Knobs is a recreation area featuring nearly 200 camping areas, stretches of
 ![Top-down visualization of Twin Knobs Campground/Beach](images/M7_TwinKnobs.jpg)     
 *Top-down visualization of Twin Knobs Campground/Beach*
 
-[Link to high-resolution version](images/M7_Twin_Knobs_georef.pdf) 
+[Link to georeferenced PDF](images/M7_Twin_Knobs_georef.pdf) 
 
 ## Photos of Twin Knobs & Cave Run Lake
 ![Cove in Cave Run Lake](images/Broken_tree_lake.jpg)     
