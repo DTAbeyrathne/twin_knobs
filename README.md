@@ -16,7 +16,7 @@ Twin Knobs is a recreation area featuring nearly 200 camping areas, stretches of
 *Misty morning in the secluded cove*
 
 ![Snapshot of vegetation on a scenic foot path](images/Fall_sunshine.jpg)     
-*Snapshot of nature on one of Twin Knob's scenic foot paths*
+*Snapshot of nature on one of Twin Knobs's scenic foot paths*
 
 ![The forest behind a campging site](images/Campground_forest.jpg)     
 *The forest behind a camping site*
