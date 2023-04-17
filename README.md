@@ -21,6 +21,6 @@ Twin Knobs is a recreation area featuring nearly 200 camping areas, stretches of
 ![The forest behind a campging site](images/Campground_forest.jpg)     
 *The forest behind a camping site*
 
-DEM and NAIP imagery data was obtained from KyFromAbove, hydrology data was obtained from USGS, and information about Twin Knobs was obtained from Recreation.gov (https://www.recreation.gov/camping/campgrounds/233782?tab=info) and the USDA Forest Service (https://www.fs.usda.gov/recarea/dbnf/recarea/?recid=39324). All data was analyzed and stylized in ArcGIS Pro and Belnder.
+DEM and NAIP imagery data was obtained from KyFromAbove, hydrology data was obtained from USGS, and information about Twin Knobs was obtained from [Recreation.gov](https://www.recreation.gov/camping/campgrounds/233782?tab=info) and the [USDA Forest Service](https://www.fs.usda.gov/recarea/dbnf/recarea/?recid=39324). All data was analyzed and stylized in ArcGIS Pro and Belnder.
 
 This map was created by Dilni Abeyrathne [@DTAbeyrathne](https://github.com/DTAbeyrathne) for the GEO409-001 (Spring 2023) class in the University of Kentucky’s Department of Geography. This webpage visualization was published on April 16th, 2023.
