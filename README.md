@@ -1,4 +1,4 @@
-# twin knobs campground/beach
+# Twin Knobs Campground/Beach
 ## Located at Cave Run Lake in the Daniel Boone National Forest (Winchester, KY)
 
 Twin Knobs is a recreation area featuring nearly 200 camping areas, stretches of inland beaches, scenic foot trails, and a multitude of natural features associated with the Appalachian Mountains. The lake that borders it, Cave Run Lake, is a man-made body of water built by the U.S. Army Corps of Engineers to serve as flood protection for the Licking River Valley. It also serves many other fuctions, including improving the Licking River's waterflow, providing a reservoir of fresh water for nearby communities, and providing habitats for several fish and wildlife species.
